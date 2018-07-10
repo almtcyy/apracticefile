@@ -23,4 +23,4 @@ _我看看这又是什么斜体_
 
         :smile:
 
-        *:satisfied:
+        * :satisfied:
